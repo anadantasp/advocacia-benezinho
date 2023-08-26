@@ -135,7 +135,7 @@ Nos próximos dias, a correção da prova será disponibilizada no github do pro
 Para acessar digite no prompt:
 
 ```shell
-git clone https://github.com/Benefrancis/advocacia-benezinho && cd benezinho-advocacia && git checkout correcao
+git clone https://github.com/Benefrancis/advocacia-benezinho && cd benezinho-advocacia && git checkout correcao/2tdspr
 ```
 
 
